@@ -1,0 +1,6 @@
+[Mon Oct 19 09:05:34 2015] [info] Listening at "http://*:8080"
+[Mon Oct 19 09:05:34 2015] [info] Manager 21985 started
+[Mon Oct 19 09:05:34 2015] [info] Creating process id file "/usr/local/hurwitzlab/abe487_tester/script/hypnotoad.pid"
+[Mon Oct 19 10:59:25 2015] [info] Listening at "http://*:3003"
+[Mon Oct 19 10:59:25 2015] [info] Manager 23347 started
+[Mon Oct 19 10:59:25 2015] [info] Creating process id file "/usr/local/hurwitzlab/abe487_tester/script/hypnotoad.pid"

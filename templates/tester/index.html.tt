@@ -1,0 +1,23 @@
+<form action="test" method="get">
+<table>
+  <tr>
+    <td>GitHub ID:</td>
+    <td><input id="github_id" name="github_id"/></td>
+  </tr>
+  <tr>
+    <td>Week:</td>
+    <td>
+      <select name="week">
+        <option value="week6">6</option>
+        <option value="week7">7</option>
+        <option value="week8">8</option>
+      </select>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <input type="submit">
+    </td>
+  </tr>
+</table>
+</form>

@@ -1,0 +1,371 @@
+[Mon Oct 19 09:07:48 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:07:48 2015] [debug] GET "/"
+[Mon Oct 19 09:07:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:07:48 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:07:48 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:07:48 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:07:48 2015] [debug] 404 Not Found (0.042393s, 23.589/s)
+[Mon Oct 19 09:08:45 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:08:45 2015] [debug] GET "/"
+[Mon Oct 19 09:08:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:08:45 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:08:45 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:08:45 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:08:45 2015] [debug] 404 Not Found (0.031855s, 31.392/s)
+[Mon Oct 19 09:08:47 2015] [debug] GET "/"
+[Mon Oct 19 09:08:47 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:08:47 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:08:47 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:08:47 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:08:47 2015] [debug] 404 Not Found (0.009230s, 108.342/s)
+[Mon Oct 19 09:09:10 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:09:10 2015] [debug] GET "/"
+[Mon Oct 19 09:09:10 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:09:10 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:09:10 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:09:10 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:09:10 2015] [debug] 404 Not Found (0.031268s, 31.982/s)
+[Mon Oct 19 09:09:25 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:09:25 2015] [debug] GET "/"
+[Mon Oct 19 09:09:25 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:09:25 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:09:25 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:09:25 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:09:25 2015] [debug] 404 Not Found (0.030679s, 32.596/s)
+[Mon Oct 19 09:09:26 2015] [debug] GET "/"
+[Mon Oct 19 09:09:26 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:09:26 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:09:26 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:09:26 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:09:26 2015] [debug] 404 Not Found (0.009120s, 109.649/s)
+[Mon Oct 19 09:10:26 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:10:26 2015] [debug] GET "/"
+[Mon Oct 19 09:10:26 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:10:26 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:10:26 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:10:27 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:10:27 2015] [debug] 404 Not Found (0.030759s, 32.511/s)
+[Mon Oct 19 09:11:14 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:11:14 2015] [debug] GET "/"
+[Mon Oct 19 09:11:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:11:14 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:11:14 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:11:14 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:11:14 2015] [debug] 404 Not Found (0.031460s, 31.786/s)
+[Mon Oct 19 09:11:16 2015] [debug] GET "/"
+[Mon Oct 19 09:11:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:11:16 2015] [debug] Template "not_found.html.ep" not found
+[Mon Oct 19 09:11:16 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:11:16 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:11:16 2015] [debug] 404 Not Found (0.009397s, 106.417/s)
+[Mon Oct 19 09:12:27 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:12:27 2015] [debug] GET "/"
+[Mon Oct 19 09:12:27 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:12:27 2015] [debug] 404 Not Found (0.043130s, 23.186/s)
+[Mon Oct 19 09:12:35 2015] [debug] GET "/"
+[Mon Oct 19 09:12:35 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:12:35 2015] [debug] 404 Not Found (0.001604s, 623.441/s)
+[Mon Oct 19 09:14:15 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:14:15 2015] [debug] GET "/"
+[Mon Oct 19 09:14:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:14:15 2015] [debug] 404 Not Found (0.005279s, 189.430/s)
+[Mon Oct 19 09:14:16 2015] [debug] GET "/"
+[Mon Oct 19 09:14:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:14:16 2015] [debug] 404 Not Found (0.001149s, 870.322/s)
+[Mon Oct 19 09:14:48 2015] [debug] GET "/"
+[Mon Oct 19 09:14:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:14:48 2015] [debug] 404 Not Found (0.001384s, 722.543/s)
+[Mon Oct 19 09:14:55 2015] [debug] GET "/"
+[Mon Oct 19 09:14:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct 19 09:14:55 2015] [debug] 404 Not Found (0.001953s, 512.033/s)
+[Mon Oct 19 09:15:18 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:15:18 2015] [debug] GET "/"
+[Mon Oct 19 09:15:18 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "index"
+[Mon Oct 19 09:15:18 2015] [debug] 200 OK (0.032104s, 31.149/s)
+[Mon Oct 19 09:16:55 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:16:55 2015] [debug] GET "/"
+[Mon Oct 19 09:16:55 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "index"
+[Mon Oct 19 09:16:55 2015] [debug] 200 OK (0.037376s, 26.755/s)
+[Mon Oct 19 09:18:00 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:18:00 2015] [debug] GET "/"
+[Mon Oct 19 09:18:00 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "index"
+[Mon Oct 19 09:18:00 2015] [debug] 200 OK (0.035505s, 28.165/s)
+[Mon Oct 19 09:18:23 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:18:23 2015] [debug] GET "/"
+[Mon Oct 19 09:18:23 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "index"
+[Mon Oct 19 09:18:23 2015] [debug] 200 OK (0.027117s, 36.877/s)
+[Mon Oct 19 09:20:17 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:20:17 2015] [debug] GET "/"
+[Mon Oct 19 09:20:17 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "index"
+[Mon Oct 19 09:20:17 2015] [debug] 200 OK (0.004480s, 223.214/s)
+[Mon Oct 19 09:20:19 2015] [debug] GET "/test"
+[Mon Oct 19 09:20:19 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:20:19 2015] [debug] Action not found in controller
+[Mon Oct 19 09:20:19 2015] [debug] 200 OK (0.039315s, 25.436/s)
+[Mon Oct 19 09:20:26 2015] [debug] GET "/test"
+[Mon Oct 19 09:20:26 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:20:26 2015] [debug] Action not found in controller
+[Mon Oct 19 09:20:26 2015] [debug] 200 OK (0.001366s, 732.064/s)
+[Mon Oct 19 09:20:33 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:20:33 2015] [debug] GET "/test"
+[Mon Oct 19 09:20:33 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:20:33 2015] [debug] Action not found in controller
+[Mon Oct 19 09:20:33 2015] [debug] 200 OK (0.003688s, 271.150/s)
+[Mon Oct 19 09:21:36 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:21:36 2015] [debug] GET "/test"
+[Mon Oct 19 09:21:36 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:21:36 2015] [debug] Action not found in controller
+[Mon Oct 19 09:21:36 2015] [debug] 200 OK (0.003861s, 259.000/s)
+[Mon Oct 19 09:21:50 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:21:50 2015] [debug] GET "/test"
+[Mon Oct 19 09:21:50 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:21:50 2015] [error] No Github ID
+
+[Mon Oct 19 09:21:50 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 09:21:50 2015] [debug] Template "exception.html.ep" not found
+[Mon Oct 19 09:21:50 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:21:50 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:21:50 2015] [debug] 500 Internal Server Error (0.035020s, 28.555/s)
+[Mon Oct 19 09:22:48 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:22:48 2015] [debug] GET "/test"
+[Mon Oct 19 09:22:48 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:22:48 2015] [error] No Github ID
+[Mon Oct 19 09:22:48 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 09:22:48 2015] [debug] Template "exception.html.ep" not found
+[Mon Oct 19 09:22:48 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:22:48 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:22:48 2015] [debug] 500 Internal Server Error (0.032822s, 30.467/s)
+[Mon Oct 19 09:41:32 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:41:32 2015] [debug] GET "/test"
+[Mon Oct 19 09:41:32 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:41:32 2015] [error] No Github ID
+[Mon Oct 19 09:41:32 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 09:41:32 2015] [debug] Template "exception.html.ep" not found
+[Mon Oct 19 09:41:32 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Oct 19 09:41:32 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Oct 19 09:41:32 2015] [debug] 500 Internal Server Error (0.032577s, 30.697/s)
+[Mon Oct 19 09:42:00 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 09:42:00 2015] [debug] GET "/test"
+[Mon Oct 19 09:42:00 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 09:42:00 2015] [error] No Github ID
+[Mon Oct 19 09:42:00 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 09:42:00 2015] [debug] 500 Internal Server Error (0.072470s, 13.799/s)
+[Mon Oct 19 10:08:48 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:08:48 2015] [debug] GET "/test"
+[Mon Oct 19 10:08:48 2015] [error] Global symbol "$self" requires explicit package name at lib/Abe487Tester/Controller/Tester.pm line 48.
+Global symbol "$id" requires explicit package name at lib/Abe487Tester/Controller/Tester.pm line 51.
+Global symbol "$id" requires explicit package name at lib/Abe487Tester/Controller/Tester.pm line 54.
+Global symbol "$self" requires explicit package name at lib/Abe487Tester/Controller/Tester.pm line 59.
+Global symbol "$self" requires explicit package name at lib/Abe487Tester/Controller/Tester.pm line 69.
+Compilation failed in require at (eval 47) line 1.
+
+[Mon Oct 19 10:08:48 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:08:48 2015] [debug] 500 Internal Server Error (0.024212s, 41.302/s)
+[Mon Oct 19 10:09:52 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:09:52 2015] [debug] GET "/test"
+[Mon Oct 19 10:09:52 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:09:54 2015] [error] Can't locate object method "exeception" via package "Mojolicious::Renderer::Helpers::c99bf8006e101e80e414d42193dc817a" at lib/Abe487Tester/Controller/Tester.pm line 70.
+
+[Mon Oct 19 10:09:54 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:09:54 2015] [debug] 500 Internal Server Error (1.142093s, 0.876/s)
+[Mon Oct 19 10:10:24 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:10:24 2015] [debug] GET "/test"
+[Mon Oct 19 10:10:24 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:10:40 2015] [error] 0
+[Mon Oct 19 10:10:40 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:10:40 2015] [debug] 500 Internal Server Error (15.891866s, 0.063/s)
+[Mon Oct 19 10:10:44 2015] [error] 0
+[Mon Oct 19 10:10:44 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:10:44 2015] [error] 512
+[Mon Oct 19 10:10:44 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:10:44 2015] [error] Unable to create 'edevog/week6/test-out'
+[Mon Oct 19 10:10:44 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:11:43 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:11:43 2015] [debug] GET "/test"
+[Mon Oct 19 10:11:43 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:11:56 2015] [error] 0
+[Mon Oct 19 10:11:56 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:11:56 2015] [debug] 500 Internal Server Error (13.354676s, 0.075/s)
+[Mon Oct 19 10:11:59 2015] [error] 0
+[Mon Oct 19 10:11:59 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:12:00 2015] [error] 512
+[Mon Oct 19 10:12:00 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:12:00 2015] [error] Unable to create 'edevog/week6/test-out'
+[Mon Oct 19 10:12:00 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:13:40 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:13:40 2015] [debug] GET "/test"
+[Mon Oct 19 10:13:40 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:13:53 2015] [error] 0
+[Mon Oct 19 10:13:53 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:13:53 2015] [debug] 500 Internal Server Error (13.849603s, 0.072/s)
+[Mon Oct 19 10:13:57 2015] [error] 0
+[Mon Oct 19 10:13:57 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:13:57 2015] [error] 512
+[Mon Oct 19 10:13:57 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:13:57 2015] [error] Unable to create 'edevog/week6/test-out'
+[Mon Oct 19 10:13:57 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:15:53 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:15:54 2015] [debug] GET "/test"
+[Mon Oct 19 10:15:54 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:15:56 2015] [error] 0
+[Mon Oct 19 10:15:56 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:15:56 2015] [debug] 500 Internal Server Error (2.333162s, 0.429/s)
+[Mon Oct 19 10:15:56 2015] [error] 32768
+[Mon Oct 19 10:15:56 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:15:56 2015] [error] 512
+[Mon Oct 19 10:15:56 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:15:56 2015] [error] Unable to create 'kyclark/week7/test-out'
+[Mon Oct 19 10:15:56 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:16:45 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:16:45 2015] [debug] GET "/test"
+[Mon Oct 19 10:16:45 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:16:47 2015] [error] 0
+[Mon Oct 19 10:16:47 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:16:47 2015] [debug] 500 Internal Server Error (2.276252s, 0.439/s)
+[Mon Oct 19 10:16:47 2015] [error] 32768
+[Mon Oct 19 10:16:47 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:16:47 2015] [error] 512
+[Mon Oct 19 10:16:47 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:16:47 2015] [error] Unable to create 'kyclark/week7/test-out'
+[Mon Oct 19 10:16:47 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:17:04 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:17:04 2015] [debug] GET "/test"
+[Mon Oct 19 10:17:04 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:17:06 2015] [error] 0
+[Mon Oct 19 10:17:06 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:17:06 2015] [debug] 500 Internal Server Error (2.423887s, 0.413/s)
+[Mon Oct 19 10:17:06 2015] [error] 32768
+[Mon Oct 19 10:17:06 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:17:06 2015] [error] 512
+[Mon Oct 19 10:17:06 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:17:06 2015] [error] Unable to create 'kyclark/week7/test-out'
+[Mon Oct 19 10:17:06 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:20:22 2015] [debug] GET "/test"
+[Mon Oct 19 10:20:22 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:20:23 2015] [error] 32768
+[Mon Oct 19 10:20:23 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:20:23 2015] [debug] 500 Internal Server Error (0.995705s, 1.004/s)
+[Mon Oct 19 10:20:26 2015] [error] 0
+[Mon Oct 19 10:20:26 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:20:26 2015] [error] 512
+[Mon Oct 19 10:20:26 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:20:26 2015] [error] Unable to create 'njlytal/week7/test-out'
+[Mon Oct 19 10:20:26 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:22:10 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:22:10 2015] [debug] GET "/test"
+[Mon Oct 19 10:22:10 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:22:11 2015] [error] 32768
+[Mon Oct 19 10:22:11 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:22:11 2015] [debug] 500 Internal Server Error (0.966437s, 1.035/s)
+[Mon Oct 19 10:22:13 2015] [error] 0
+[Mon Oct 19 10:22:13 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:22:13 2015] [error] 512
+[Mon Oct 19 10:22:13 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:22:13 2015] [error] Unable to create 'njlytal/week7/test-out'
+[Mon Oct 19 10:22:13 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:24:50 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:24:50 2015] [debug] GET "/test"
+[Mon Oct 19 10:24:50 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:24:51 2015] [error] 32768
+[Mon Oct 19 10:24:51 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:24:51 2015] [debug] 500 Internal Server Error (0.980801s, 1.020/s)
+[Mon Oct 19 10:24:53 2015] [error] 0
+[Mon Oct 19 10:24:53 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:24:53 2015] [error] 512
+[Mon Oct 19 10:24:53 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:24:53 2015] [error] Unable to create 'njlytal/week7/test-out'
+[Mon Oct 19 10:24:53 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:25:13 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:25:13 2015] [debug] GET "/test"
+[Mon Oct 19 10:25:13 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:25:15 2015] [error] 0
+[Mon Oct 19 10:25:15 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:25:15 2015] [debug] 500 Internal Server Error (1.448735s, 0.690/s)
+[Mon Oct 19 10:25:17 2015] [error] 0
+[Mon Oct 19 10:25:17 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:25:17 2015] [error] 256
+[Mon Oct 19 10:25:17 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:25:17 2015] [error] Unable to create 'njlytal/week7/test-out'
+[Mon Oct 19 10:25:17 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:27:54 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:27:54 2015] [debug] GET "/test"
+[Mon Oct 19 10:27:54 2015] [error] syntax error at lib/Abe487Tester/Controller/Tester.pm line 49, near "$? :"
+Compilation failed in require at (eval 47) line 1.
+
+[Mon Oct 19 10:27:54 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:27:54 2015] [debug] 500 Internal Server Error (0.015680s, 63.776/s)
+[Mon Oct 19 10:28:01 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:28:01 2015] [debug] GET "/test"
+[Mon Oct 19 10:28:01 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:28:01 2015] [error] -1
+[Mon Oct 19 10:28:01 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:01 2015] [debug] 500 Internal Server Error (0.015230s, 65.660/s)
+[Mon Oct 19 10:28:01 2015] [error] -1
+[Mon Oct 19 10:28:01 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:01 2015] [error] Week (week7) config does not exist
+[Mon Oct 19 10:28:01 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:17 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:28:17 2015] [debug] GET "/test"
+[Mon Oct 19 10:28:17 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:28:19 2015] [error] 0
+[Mon Oct 19 10:28:19 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:19 2015] [debug] 500 Internal Server Error (1.321821s, 0.757/s)
+[Mon Oct 19 10:28:20 2015] [error] 0
+[Mon Oct 19 10:28:20 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:56 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:28:56 2015] [debug] GET "/test"
+[Mon Oct 19 10:28:56 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:28:58 2015] [error] 0
+[Mon Oct 19 10:28:58 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:28:58 2015] [debug] 500 Internal Server Error (1.385073s, 0.722/s)
+[Mon Oct 19 10:28:59 2015] [error] 0
+[Mon Oct 19 10:28:59 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:29:10 2015] [debug] GET "/test"
+[Mon Oct 19 10:29:10 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:29:12 2015] [error] 0
+[Mon Oct 19 10:29:12 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:29:12 2015] [debug] 500 Internal Server Error (1.448450s, 0.690/s)
+[Mon Oct 19 10:29:14 2015] [error] 0
+[Mon Oct 19 10:29:14 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:29:35 2015] [debug] GET "/test"
+[Mon Oct 19 10:29:35 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:29:36 2015] [error] 0
+[Mon Oct 19 10:29:36 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:29:36 2015] [debug] 500 Internal Server Error (1.481477s, 0.675/s)
+[Mon Oct 19 10:29:38 2015] [error] 0
+[Mon Oct 19 10:29:38 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:31:38 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:31:38 2015] [debug] GET "/test"
+[Mon Oct 19 10:31:38 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:31:39 2015] [error] 32768
+[Mon Oct 19 10:31:39 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:31:39 2015] [debug] 500 Internal Server Error (0.427178s, 2.341/s)
+[Mon Oct 19 10:32:01 2015] [debug] GET "/test"
+[Mon Oct 19 10:32:01 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:32:03 2015] [error] 0
+[Mon Oct 19 10:32:03 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:32:03 2015] [debug] 500 Internal Server Error (1.464841s, 0.683/s)
+[Mon Oct 19 10:32:05 2015] [error] 0
+[Mon Oct 19 10:32:05 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:33:04 2015] [debug] Your secret passphrase needs to be changed
+[Mon Oct 19 10:33:04 2015] [debug] GET "/test"
+[Mon Oct 19 10:33:04 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:33:05 2015] [error] 0
+[Mon Oct 19 10:33:05 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:33:06 2015] [debug] 500 Internal Server Error (1.377858s, 0.726/s)
+[Mon Oct 19 10:33:07 2015] [error] 0
+[Mon Oct 19 10:33:07 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:34:13 2015] [debug] GET "/test"
+[Mon Oct 19 10:34:13 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:34:14 2015] [error] 0
+[Mon Oct 19 10:34:14 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:34:14 2015] [debug] 500 Internal Server Error (1.421684s, 0.703/s)
+[Mon Oct 19 10:34:16 2015] [error] 0
+[Mon Oct 19 10:34:16 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:34:33 2015] [debug] GET "/test"
+[Mon Oct 19 10:34:33 2015] [debug] Routing to controller "Abe487Tester::Controller::Tester" and action "test"
+[Mon Oct 19 10:34:35 2015] [error] 0
+[Mon Oct 19 10:34:35 2015] [debug] Template "exception.development.html.ep" not found
+[Mon Oct 19 10:34:35 2015] [debug] 500 Internal Server Error (1.700275s, 0.588/s)
+[Mon Oct 19 10:34:37 2015] [error] 0
+[Mon Oct 19 10:34:37 2015] [debug] Template "exception.development.html.ep" not found
